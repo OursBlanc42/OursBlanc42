@@ -2,9 +2,11 @@
 
 ## 🐾 About Me
 
+- 🇫🇷 From the north of France, where great ideas, beers, and rain never stop flowing !
 - 🎨 Former industrial draftsman transitioning into development.
 - 🌟 Passionate about automation, simplifying workflows, and solving challenging problems.
 - 🐧 Linux enthusiast and advocate for open-source solutions.
+- 🚀 Currently seeking my first professional experience as a developer.
 
 ## Projects
 
@@ -28,13 +30,6 @@
 
 - [LinkedIn](https://www.linkedin.com/in/simon-r%C3%A9gnier-2829247b)
 
-## Contributions
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=votre-pseudo&show_icons=true&theme=dark)
-
-## Visiteurs
-
-![Visiteurs](https://visitor-badge.glitch.me/badge?page_id=votre-pseudo.votre-pseudo)
 
 ---
 
