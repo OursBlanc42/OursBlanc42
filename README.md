@@ -9,8 +9,8 @@
 - 🚀 Currently seeking my first professional experience as a developer.
 
 ## Projects
-
-### 🚧 UNDER CONSTRUCTION 🚧
+[[Tamago-Shell](https://github.com/yourusername/simple_shell)](https://github.com/OursBlanc42/holbertonschool-simple_shell)
+Tamago-Shell is a simple UNIX command-line interpreter developed as part of my training at Holberton School.
 
 ## 🔧 Skills
 
