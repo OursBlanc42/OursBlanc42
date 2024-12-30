@@ -8,8 +8,9 @@
 - 🐧 Linux enthusiast and advocate for open-source solutions.
 - 🚀 Currently seeking my first professional experience as a developer.
 
-## Projects
-[[Tamago-Shell](https://github.com/yourusername/simple_shell)](https://github.com/OursBlanc42/holbertonschool-simple_shell)
+## 🚀 Projects
+
+### [Tamago-Shell](https://github.com/OursBlanc42/holbertonschool-simple_shell)
 Tamago-Shell is a simple UNIX command-line interpreter developed as part of my training at Holberton School.
 
 ## 🔧 Skills
