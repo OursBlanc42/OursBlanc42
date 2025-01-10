@@ -10,8 +10,14 @@
 
 ## 🚀 Projects
 
-### [Tamago-Shell](https://github.com/OursBlanc42/holbertonschool-simple_shell)
+### 🥚 [Tamago-Shell](https://github.com/OursBlanc42/holbertonschool-simple_shell)
 Tamago-Shell is a simple UNIX command-line interpreter developed as part of my training at Holberton School.
+
+### 🧩 🎅 [enigme.christmast](https://enigme.christmas)
+A Christmas-themed treasure hunt I created for fun and learning. The goal is to solve riddles online to send your "letter to Santa" and win a video game. It will ends November 30, 2025.
+The source code is not on GitHub for now to avoid spoiling the answers, but once the hunt ends (either a winner is found or the deadline is reached), I’ll publish the solutions and code on GitHub.
+
+
 
 ## 🔧 Skills
 
@@ -31,6 +37,9 @@ Tamago-Shell is a simple UNIX command-line interpreter developed as part of my t
 
 - [LinkedIn](https://www.linkedin.com/in/simon-r%C3%A9gnier-2829247b)
 
+## 📝 Resume 
+My resume handmade with love and selfhosted :
+👉 [View here](https://www.cv.nanuq.me)
 
 ---
 
