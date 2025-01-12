@@ -36,6 +36,10 @@ The source code is not on GitHub for now to avoid spoiling the answers, but once
 ## 📫 Contact
 
 - [LinkedIn](https://www.linkedin.com/in/simon-r%C3%A9gnier-2829247b)
+  
+## 🔗 Other links
+
+- 🎮 [itchio](https://oursblanc.itch.io/)
 
 ## 📝 Resume 
 My resume handmade with love and selfhosted :
