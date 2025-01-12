@@ -39,7 +39,7 @@ The source code is not on GitHub for now to avoid spoiling the answers, but once
 
 ## 📝 Resume 
 My resume handmade with love and selfhosted :
-👉 [View here](https://www.cv.nanuq.me)
+👉 [View here](https://cv.nanuq.me)
 
 ---
 
