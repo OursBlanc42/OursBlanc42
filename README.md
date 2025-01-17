@@ -39,7 +39,7 @@ The source code is not on GitHub for now to avoid spoiling the answers, but once
   
 ## 🔗 Other links
 
-- 🎮 [itchio](https://oursblanc.itch.io/)
+- 🎮 My itchio page, with textual adventure game, and TTRPG handmade with love 👉 [itchio](https://oursblanc.itch.io/)
 
 ## 📝 Resume 
 My resume handmade with love and selfhosted :
