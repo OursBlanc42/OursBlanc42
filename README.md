@@ -21,7 +21,6 @@ The source code is not on GitHub for now to avoid spoiling the answers, but once
 A Python rewrite of the Zombiedice tabletop game.
 It's a personal project designed to practice and enhance my Python programming skills.
 
-### Zompydice
 
 ## 🔧 Skills  
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; padding: 20px;">
@@ -51,11 +50,6 @@ It's a personal project designed to practice and enhance my Python programming s
 </div>
 
 
-
-
-
-
-
 ## 📫 Contact
 
 - [LinkedIn](https://www.linkedin.com/in/simon-r%C3%A9gnier-2829247b)
@@ -64,7 +58,7 @@ It's a personal project designed to practice and enhance my Python programming s
 
 - 🕹️ My itchio page, with textual adventure game, and TTRPG handmade with love 👉 [itchio](https://oursblanc.itch.io/)
 - ✍️ My medium blog 👉 [Visit here](https://medium.com/@regniersimon)
-- 
+
 ## 📝 Resume 
 My resume handmade with love and selfhosted :
 👉 [View here](https://cv.nanuq.me)
