@@ -49,19 +49,20 @@ It's a personal project designed to practice and enhance my Python programming s
   <img src="https://img.shields.io/badge/Cinema-🎥-red" alt="Cinema Badge" />
 </div>
 
-
 ## 📫 Contact
-
 - [LinkedIn](https://www.linkedin.com/in/simon-r%C3%A9gnier-2829247b)
-  
-## 🔗 Other links
-
-- 🕹️ My itchio page, with textual adventure game, and TTRPG handmade with love 👉 [itchio](https://oursblanc.itch.io/)
-- ✍️ My medium blog 👉 [Visit here](https://medium.com/@regniersimon)
 
 ## 📝 Resume 
 My resume handmade with love and selfhosted :
 👉 [View here](https://cv.nanuq.me)
+
+## 🔗 Other links
+
+- 🕹️ My itchio page, with textual adventure game, and TTRPG handmade with love 👉 [itchio](https://oursblanc.itch.io/)
+- ✍️ My self hosted blog (in french) 👉 [Visit here](https://blog.nanuq.me)
+- ✍️ My medium blog (in english) 👉 [Visit here](https://medium.com/@regniersimon)
+
+
 
 ---
 
