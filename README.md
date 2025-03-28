@@ -33,9 +33,14 @@ It's a personal project designed to practice and enhance my Python programming s
   <img src="https://img.shields.io/badge/HTML-📄-orange" alt="HTML Badge" />
   <img src="https://img.shields.io/badge/CSS-🎨-blue" alt="CSS Badge" />
   <img src="https://img.shields.io/badge/VSCode-🖥️-lightblue" alt="VSCode Badge" />
-  <img src="https://img.shields.io/badge/Docker-🐳-blue" alt="Docker Badge" />
   <img src="https://img.shields.io/badge/Industrial%20Design-📐-blueviolet" alt="Industrial Design Badge" />
-  <img src="https://img.shields.io/badge/3D%20Modeling-📊-purple" alt="3D Modeling Badge" />
+  <img src="https://img.shields.io/badge/3D%20Modeling-🏗️-purple" alt="3D Modeling Badge" />
+  <img src="https://img.shields.io/badge/Postman-📬-orange" alt="Postman Badge" />
+  <img src="https://img.shields.io/badge/Bash-🖋️-black" alt="Bash Badge" />
+  <img src="https://img.shields.io/badge/Git-🔧-red" alt="Git Badge" />
+  <img src="https://img.shields.io/badge/Docker-🐳-blue" alt="Docker Badge" />
+  <img src="https://img.shields.io/badge/Portainer-🛳️-blue" alt="Portainer Badge" />
+  <img src="https://img.shields.io/badge/SQL-🗄️-darkblue" alt="SQL Badge" />
 </div>
 
 ## 📚 Interests  
