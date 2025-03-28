@@ -59,6 +59,7 @@ My resume handmade with love and selfhosted :
 ## 🔗 Other links
 
 - 🕹️ My itchio page, with textual adventure game, and TTRPG handmade with love 👉 [itchio](https://oursblanc.itch.io/)
+- 🖨️ My 3D printing projects on Thingiverse 👉 [Thingiverse](https://www.thingiverse.com/oursblanc42/designs)
 - ✍️ My self hosted blog (in french) 👉 [Visit here](https://blog.nanuq.me)
 - ✍️ My medium blog (in english) 👉 [Visit here](https://medium.com/@regniersimon)
 
