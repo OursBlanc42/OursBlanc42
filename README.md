@@ -21,6 +21,10 @@ The source code is not on GitHub for now to avoid spoiling the answers, but once
 A Python rewrite of the Zombiedice tabletop game.
 It's a personal project designed to practice and enhance my Python programming skills.
 
+### 🏠 [HBNB](https://github.com/OursBlanc42/holbertonschool-hbnb)
+Clone of AirBnB developed as part of my training at Holberton School
+
+
 
 ## 🔧 Skills  
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; padding: 20px;">
