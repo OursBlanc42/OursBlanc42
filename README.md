@@ -6,8 +6,8 @@
 - 🎨 Former industrial draftsman transitioning into development.
 - 🌟 Passionate about new technologies, coding, and making complex concepts accessible through documentation and blogs.
 - 🐧 Linux enthusiast and advocate for free-software and opensource solutions.
-- 🚀 Currently seeking my first professional experience as a developer.
-
+- 🚀 Eager to start my first professional role in software development, QA support, or technical writing.
+  
 ## 🚀 Projects
 
 ### 🥚 [Tamago-Shell](https://github.com/OursBlanc42/holbertonschool-simple_shell)
