@@ -3,10 +3,10 @@
 ## 🐻‍❄️ About Me
 
 - 🇫🇷 From the north of France, where great ideas, beers, and rain never stop flowing !
-- 🎨 Former industrial draftsman transitioning into development.
-- 🌟 Passionate about new technologies, coding, and making complex concepts accessible through documentation and blogs.
+- 📐 Former industrial draftsman transitioning into development.
+- 🧠 Passionate about new technologies, coding, and making complex concepts accessible through documentation and blogs.
 - 🐧 Linux enthusiast and advocate for free-software and opensource solutions.
-- 🚀 Eager to start my first professional role in software development, QA support, or technical writing.
+- 👨‍💻 Eager to start my first professional role in software development, QA support, or technical writing.
   
 ## 🚀 Projects
 
