@@ -10,7 +10,7 @@
   
 ## 🚀 Projects
 
-### 🐻‍❄️ [Bear-scrap](https://github.com/OursBlanc42/bear-scrap
+### 🐻‍❄️ [Bear-scrap](https://github.com/OursBlanc42/bear-scrap)
 Bear-Scrap is a scraping project that retrieves and displays free software highlighted by Bearstech on LinkedIn during the summer. It uses Selenium to extract data from posts and presents it on a responsive web page, making it easy to view and track.
 
 ### 🥚 [Tamago-Shell](https://github.com/OursBlanc42/holbertonschool-simple_shell)
