@@ -10,6 +10,9 @@
   
 ## 🚀 Projects
 
+### 🐻‍❄️ [Bear-scrap](https://github.com/OursBlanc42/bear-scrap
+Bear-Scrap is a scraping project that retrieves and displays free software highlighted by Bearstech on LinkedIn during the summer. It uses Selenium to extract data from posts and presents it on a responsive web page, making it easy to view and track.
+
 ### 🥚 [Tamago-Shell](https://github.com/OursBlanc42/holbertonschool-simple_shell)
 Tamago-Shell is a simple UNIX command-line interpreter developed as part of my training at Holberton School.
 
@@ -45,6 +48,10 @@ Clone of AirBnB developed as part of my training at Holberton School
   <img src="https://img.shields.io/badge/Docker-🐳-blue" alt="Docker Badge" />
   <img src="https://img.shields.io/badge/Portainer-🛳️-blue" alt="Portainer Badge" />
   <img src="https://img.shields.io/badge/SQL-🗄️-darkblue" alt="SQL Badge" />
+  <img src="https://img.shields.io/badge/PHP-🐘-purple" alt="PHP Badge" />
+  <img src="https://img.shields.io/badge/Laravel-🔥-red" alt="Laravel Badge" />
+  <img src="https://img.shields.io/badge/Flask-⚗️-black" alt="Flask Badge" />
+  <img src="https://img.shields.io/badge/VSCode-🖥️-blue" alt="VSCode Badge" />
 </div>
 
 ## 📚 Interests  
@@ -56,6 +63,8 @@ Clone of AirBnB developed as part of my training at Holberton School
   <img src="https://img.shields.io/badge/Digital%20Art-🎨-pink" alt="Digital Art Badge" />
   <img src="https://img.shields.io/badge/Music-🎵-red" alt="Music Badge" />
   <img src="https://img.shields.io/badge/Cinema-🎥-red" alt="Cinema Badge" />
+  <img src="https://img.shields.io/badge/Cooking-🍳-orange" alt="Cooking Badge" />
+  <img src="https://img.shields.io/badge/Astronomy-🔭-blue" alt="Astronomy Badge" />
 </div>
 
 ## 📫 Contact
