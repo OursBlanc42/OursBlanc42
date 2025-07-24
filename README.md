@@ -10,7 +10,7 @@
   
 ## 🚀 Projects
 
-### Side Project
+### 🛠️ Side Project
 #### 🐻‍❄️ [Bear-scrap](https://github.com/OursBlanc42/bear-scrap)
 Bear-Scrap is a scraping project that retrieves and displays free software highlighted by Bearstech on LinkedIn during the summer. It uses Selenium to extract data from posts and presents it on a responsive web page, making it easy to view and track.
 
@@ -22,10 +22,10 @@ The source code is not on GitHub for now to avoid spoiling the answers, but once
 A Python rewrite of the Zombiedice tabletop game.
 It's a personal project designed to practice and enhance my Python programming skills.
 
-### Training project
+### 🎓 Training project
 
 #### 🚗 [Carpooling App](https://oursblanc42.github.io/carpooling-app/)
-**End of the year project :** 
+**Final year project:** 
 A mobile app designed for temporary workers to share rides and overcome mobility barriers. Built with Laravel, MySQL, OSRM, and React Native in partnership with Groupe Actual.  
 Presented as a final-year project with a top score of **99.45%**.
 
