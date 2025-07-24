@@ -10,28 +10,33 @@
   
 ## 🚀 Projects
 
-### 🚗 [Carpooling App](https://oursblanc42.github.io/carpooling-app/)
-A mobile app designed for temporary workers to share rides and overcome mobility barriers. Built with Laravel, MySQL, OSRM, and React Native in partnership with Groupe Actual.  
-Presented as a final-year project with a top score of **99.45%**.
-
-### 🐻‍❄️ [Bear-scrap](https://github.com/OursBlanc42/bear-scrap)
+### Side Project
+#### 🐻‍❄️ [Bear-scrap](https://github.com/OursBlanc42/bear-scrap)
 Bear-Scrap is a scraping project that retrieves and displays free software highlighted by Bearstech on LinkedIn during the summer. It uses Selenium to extract data from posts and presents it on a responsive web page, making it easy to view and track.
 
-### 🥚 [Tamago-Shell](https://github.com/OursBlanc42/holbertonschool-simple_shell)
-Tamago-Shell is a simple UNIX command-line interpreter developed as part of my training at Holberton School.
-
-### 🧩 🎅 [enigme.christmast](https://enigme.christmas)
+#### 🧩 🎅 [enigme.christmast](https://enigme.christmas)
 A Christmas-themed treasure hunt I created for fun and learning. The goal is to solve riddles online to send your "letter to Santa" and win a video game. It will ends November 30, 2025.
 The source code is not on GitHub for now to avoid spoiling the answers, but once the hunt ends (either a winner is found or the deadline is reached), I’ll publish the solutions and code on GitHub.
 
-### 🧟‍♂️🎲 [Zompydice](https://github.com/OursBlanc42/zompydice)
+#### 🧟‍♂️🎲 [Zompydice](https://github.com/OursBlanc42/zompydice)
 A Python rewrite of the Zombiedice tabletop game.
 It's a personal project designed to practice and enhance my Python programming skills.
 
-### 🏠 [HBNB](https://github.com/OursBlanc42/holbertonschool-hbnb)
+### Training project
+
+#### 🚗 [Carpooling App](https://oursblanc42.github.io/carpooling-app/)
+**End of the year project :** 
+A mobile app designed for temporary workers to share rides and overcome mobility barriers. Built with Laravel, MySQL, OSRM, and React Native in partnership with Groupe Actual.  
+Presented as a final-year project with a top score of **99.45%**.
+
+#### 🏠 [HBNB](https://github.com/OursBlanc42/holbertonschool-hbnb)
 Clone of AirBnB developed as part of my training at Holberton School
 
+#### 🥚 [Tamago-Shell](https://github.com/OursBlanc42/holbertonschool-simple_shell)
+Tamago-Shell is a simple UNIX command-line interpreter developed as part of my training at Holberton School.
 
+#### 🖨️ [Printf](https://github.com/OursBlanc42/holbertonschool-printf)
+My first big project built during my training at Holberton School : A custom implementation of the C printf function.
 
 ## 🔧 Skills  
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; padding: 20px;">
