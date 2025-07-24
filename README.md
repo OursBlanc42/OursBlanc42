@@ -60,7 +60,6 @@ My first big project built during my training at Holberton School : A custom imp
   <img src="https://img.shields.io/badge/PHP-🐘-purple" alt="PHP Badge" />
   <img src="https://img.shields.io/badge/Laravel-🔥-red" alt="Laravel Badge" />
   <img src="https://img.shields.io/badge/Flask-⚗️-black" alt="Flask Badge" />
-  <img src="https://img.shields.io/badge/VSCode-🖥️-blue" alt="VSCode Badge" />
 </div>
 
 ## 📚 Interests  
