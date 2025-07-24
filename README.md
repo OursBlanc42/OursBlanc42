@@ -1,6 +1,6 @@
-# OursBlanc42
+# 🐻‍❄️ - OursBlanc42
 
-## 🐻‍❄️ About Me
+## 🙋‍♂️ About Me
 
 - 🇫🇷 From the north of France, where great ideas, beers, and rain never stop flowing !
 - 📐 Former industrial draftsman transitioning into development.
@@ -75,6 +75,7 @@ My first big project built during my training at Holberton School : A custom imp
   <img src="https://img.shields.io/badge/Astronomy-🔭-blue" alt="Astronomy Badge" />
 </div>
 
+
 ## 📫 Contact
 - [LinkedIn](https://www.linkedin.com/in/simon-r%C3%A9gnier-2829247b)
 
@@ -89,8 +90,13 @@ My resume handmade with love and selfhosted :
 - ✍️ My self hosted blog (in french) 👉 [Visit here](https://blog.nanuq.me)
 - ✍️ My medium blog (in english) 👉 [Visit here](https://medium.com/@regniersimon)
 
+## 📈 Stats
+![OursBlanc42's GitHub stats](https://github-readme-stats.vercel.app/api?username=OursBlanc42&show_icons=true&theme=default&hide_rank=false)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=OursBlanc42&theme=default)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OursBlanc42&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-_"Less is more."_ Ludwig Mies Van Der Rohe
+> _"Less is more."_ — Ludwig Mies van der Rohe
