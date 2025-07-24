@@ -92,6 +92,8 @@ My resume handmade with love and selfhosted :
 - ✍️ My medium blog (in english) 👉 [Visit here](https://medium.com/@regniersimon)
 
 ## 📈 Stats
+Stats below reflect public contributions only — most of my recent work has been in private repos or self-hosted projects :
+
 ![OursBlanc42's GitHub stats](https://github-readme-stats.vercel.app/api?username=OursBlanc42&show_icons=true&theme=default&hide_rank=false)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=OursBlanc42&theme=default)](https://git.io/streak-stats)
