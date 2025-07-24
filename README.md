@@ -64,6 +64,7 @@ My first big project built during my training at Holberton School : A custom imp
 
 ## 📚 Interests  
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; padding: 20px;">
+  <img src="https://img.shields.io/badge/Computer%20Science-💻-blue" alt="Computer Science Badge" />
   <img src="https://img.shields.io/badge/3D%20Printing-🖨️-green" alt="3D Printing Badge" />
   <img src="https://img.shields.io/badge/DIY-🛠️-yellow" alt="DIY Badge" />
   <img src="https://img.shields.io/badge/Games-🎲-orange" alt="Games Badge" />
