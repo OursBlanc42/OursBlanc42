@@ -14,6 +14,9 @@
 #### 🐻‍❄️ [Bear-scrap](https://github.com/OursBlanc42/bear-scrap)
 Bear-Scrap is a scraping project that retrieves and displays free software highlighted by Bearstech on LinkedIn during the summer. It uses Selenium to extract data from posts and presents it on a responsive web page, making it easy to view and track.
 
+#### 🎮 [Hangman JS](https://github.com/OursBlanc42/hangman-js)
+Hangman JS is a browser-based implementation of the classic hangman game. It was built as a way to practice JavaScript and DOM manipulation after my training at Holberton School. It runs locally without requiring any server setup.
+
 #### 🧩 🎅 [enigme.christmast](https://enigme.christmas)
 A Christmas-themed treasure hunt I created for fun and learning. The goal is to solve riddles online to send your "letter to Santa" and win a video game. It will ends November 30, 2025.
 The source code is not on GitHub for now to avoid spoiling the answers, but once the hunt ends (either a winner is found or the deadline is reached), I’ll publish the solutions and code on GitHub.
