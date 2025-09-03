@@ -1,4 +1,6 @@
-# 🐻‍❄️ - OursBlanc42
+# 🐻‍❄️
+
+![Typing SVG](https://typingsvg.vercel.app/api/svg?text=Hello%2C+i%27m+OursBlanc42+%21%3B%E2%9C%85+I%27m+open+to+work+%21&font=Monaco&color=%23000000&width=500&height=75&typingSpeed=0.15&pause=1200&letterSpacing=0.1&repeat=true&backgroundColor=%23ffffff&fontSize=28&center=true&vCenter=true&border=true&cursorStyle=straight&deleteAfter=false&deleteSpeed=0.15)
 
 ## 🙋‍♂️ About Me
 
