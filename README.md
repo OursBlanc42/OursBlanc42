@@ -101,8 +101,6 @@ Stats below reflect public contributions only — most of my recent work has bee
 
 ![OursBlanc42's GitHub stats](https://github-readme-stats.vercel.app/api?username=OursBlanc42&show_icons=true&theme=default&hide_rank=false)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=OursBlanc42&theme=default)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OursBlanc42&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
