@@ -14,7 +14,7 @@
 
 ### 🛠️ Side Project
 #### 🎲 [ETHER](https://github.com/OursBlanc42/Ether)
-ETHER is an opensource TTRPG system.
+ETHER is a tabletop role-playing game (TTRPG) written in French. It is designed to be minimalist and modular, easy to learn, and adaptable to any universe. The project is entirely open source, inviting the community to participate in its development.
 
 #### 🐻‍❄️ [Bear-scrap](https://github.com/OursBlanc42/bear-scrap)
 Bear-Scrap is a scraping project that retrieves and displays free software highlighted by Bearstech on LinkedIn during the summer. It uses Selenium to extract data from posts and presents it on a responsive web page, making it easy to view and track.
